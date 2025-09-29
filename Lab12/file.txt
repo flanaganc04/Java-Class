@@ -1,0 +1,3 @@
+Setence one has five words
+This sentence has four
+And this one has more than five
